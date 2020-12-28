@@ -1,4 +1,7 @@
-Crime Prediction (Law enforcement) using Artificial Intelligence
+UP100 Police Emergency Management System:
+Project: Event Analysis | Fuel Management Analysis 
+         A DATA ANALYSIS & VISUALISATION PROJECT
 
-The complete Project report/PPT is available for download:
-https://drive.google.com/file/d/1afXDBp4YUYkZDPl4_fxnlraLfd_-S931/view?usp=sharing
+The complete project PPT & Report is available here:
+Presentation: https://drive.google.com/file/d/1VxUCtA6Rmyxj9J1xBI3nIgNO_LdhQPzA/view?usp=sharing
+Report:       https://drive.google.com/file/d/1Z3vARHS4pQzbbGgQcjNbNFwjQT2IeV0s/view?usp=sharing
